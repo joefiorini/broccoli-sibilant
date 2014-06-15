@@ -1,0 +1,4 @@
+(def say-hello (val)
+  (console.log "hello " val))
+
+(say-hello "joe")
